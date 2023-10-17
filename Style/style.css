@@ -3,3 +3,8 @@
     padding: 0;
     background-color: rgb(181, 225, 199);
 }
+
+.mainnav {
+    width: 100%;
+    padding: 0 20px;
+}
